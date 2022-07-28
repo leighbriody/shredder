@@ -1,0 +1,14 @@
+C:\Users\Leigh Briody\source\repos\Shredder\bin\Debug\netcoreapp3.1\Shredder.exe
+C:\Users\Leigh Briody\source\repos\Shredder\bin\Debug\netcoreapp3.1\Shredder.deps.json
+C:\Users\Leigh Briody\source\repos\Shredder\bin\Debug\netcoreapp3.1\Shredder.runtimeconfig.json
+C:\Users\Leigh Briody\source\repos\Shredder\bin\Debug\netcoreapp3.1\Shredder.runtimeconfig.dev.json
+C:\Users\Leigh Briody\source\repos\Shredder\bin\Debug\netcoreapp3.1\Shredder.dll
+C:\Users\Leigh Briody\source\repos\Shredder\bin\Debug\netcoreapp3.1\Shredder.pdb
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.csproj.AssemblyReference.cache
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.AssemblyInfoInputs.cache
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.AssemblyInfo.cs
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.csproj.CoreCompileInputs.cache
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.dll
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.pdb
+C:\Users\Leigh Briody\source\repos\Shredder\obj\Debug\netcoreapp3.1\Shredder.genruntimeconfig.cache
